@@ -16,7 +16,7 @@ namespace _3 {
             HttpResponseMessage resUser = await client.SendAsync (reqUser);
             var getJsonUser = await resUser.Content.ReadAsStringAsync ();
 
-            var result = JsonConvert.SerializeObject(new {UserDetails = getJsonPost, AccountDetails = getJsonUser});
+            var result = JsonConvert.SerializeObject(new {Post = getJsonPost, User = getJsonUser});
 
             Console.WriteLine(result);
         }

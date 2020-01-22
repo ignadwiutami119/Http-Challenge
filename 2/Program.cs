@@ -44,7 +44,7 @@ namespace _2 {
       var dept = from item in ObjekList
       where ( item.Department.Name == "Research and development")
       select (item.Username);
-      var getName = dept.Distinct ();
+      var getName = address.Distinct ();
       foreach (var item in getName) {
         Console.WriteLine (item);
       }
