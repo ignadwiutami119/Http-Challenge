@@ -34,3 +34,4 @@ D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\4\obj\Debug\netcoreapp3.0\4.Asse
 D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\4\obj\Debug\netcoreapp3.0\4.csproj.CopyComplete
 D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\4\obj\Debug\netcoreapp3.0\4.dll
 D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\4\obj\Debug\netcoreapp3.0\4.pdb
+D:\TRAININGC#\JANUARI\22Januari Asyncronus\Task\4\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
